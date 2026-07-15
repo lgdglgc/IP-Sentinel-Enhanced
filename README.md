@@ -100,13 +100,13 @@
 ### 部署 Master 司令部（只需一台）
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/lgdglgc/IP-Sentinel-Enhanced/main/master/install_master.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/lgdglgc/IP-Sentinel-Enhanced/master/master/install_master.sh)"
 ```
 
 ### 部署 Agent 边缘哨兵
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/lgdglgc/IP-Sentinel-Enhanced/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/lgdglgc/IP-Sentinel-Enhanced/master/install.sh)"
 ```
 
 ### 安装后可选配置（`/opt/ip_sentinel/config.conf`）
