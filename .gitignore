@@ -1,0 +1,23 @@
+# Environment & secrets
+.env
+.env.*
+.env.d/
+*.env
+!*.env.example
+
+# Runtime configurations & database (prevent credential leaks)
+*.conf
+*.db
+*.db-journal
+/logs/
+*.log
+
+# System & OS files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Local temp
+/tmp/
+.reconfig_debug.log

@@ -588,7 +588,7 @@
             },
             {
               "id": "HI",
-              "name": "Hawaii",
+              "name": "Hawaii (夏威夷州)",
               "cities": [
                 {
                   "id": "Honolulu",
@@ -667,6 +667,10 @@
                 {
                   "id": "New_York",
                   "name": "New York (纽约)"
+                },
+                {
+                  "id": "Buffalo",
+                  "name": "Buffalo (布法罗)"
                 }
               ]
             },
